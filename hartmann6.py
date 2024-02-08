@@ -1,5 +1,5 @@
 #  HARTMANN 6-DIMENSIONAL FUNCTION
-#  Author: Arshad Afzal, IIT Kanpur, India
+#  Author: Arshad Afzal, GIST, South Korea
 #  For Questions/ Comments, please email to arshad.afzal@gmail.com
 
 # Applications (1) Test Problems for Optimization Algorithms
